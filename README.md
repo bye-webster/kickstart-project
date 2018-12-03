@@ -1,5 +1,9 @@
 # Docker Lumen
 
+### Notes
+
+My Kickstart Project - Using Docker & Lumen 5.6 & Oauth2 & Repository Design..
+
 ### Install
 
 Before you start make sure you have [Docker Compose](https://docs.docker.com/compose/install/) installed on your machine.
