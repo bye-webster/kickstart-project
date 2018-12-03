@@ -1,6 +1,6 @@
 FROM php:7.1-fpm
 
-MAINTAINER Paulo Dias <prbdias@gmail.com>
+MAINTAINER Bye Webster <bye.webster@gmail.com>
 
 COPY ./php.ini /usr/local/etc/php/
 

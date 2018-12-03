@@ -1,6 +1,6 @@
 FROM phusion/baseimage:latest
 
-MAINTAINER Paulo Dias <prbdias@gmail.com>
+MAINTAINER Bye Webster <bye.webster@gmail.com>
 
 RUN DEBIAN_FRONTEND=noninteractive
 RUN locale-gen en_US.UTF-8

@@ -1,6 +1,6 @@
 FROM nginx:latest
 
-MAINTAINER Paulo Dias <prbdias@gmail.com>
+MAINTAINER Bye Webster <bye.webster@gmail.com>
 
 ADD nginx.conf /etc/nginx/
 ADD site.conf /etc/nginx/sites-available/

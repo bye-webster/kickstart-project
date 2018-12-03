@@ -1,6 +1,6 @@
 FROM mysql:latest
 
-MAINTAINER Paulo Dias <prbdias@gmail.com>
+MAINTAINER Bye Webster <bye.webster@gmail.com>
 
 CMD ["mysqld"]
 

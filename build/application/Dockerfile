@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-MAINTAINER Paulo Dias <prbdias@gmail.com>
+MAINTAINER Bye Webster <bye.webster@gmail.com>
 
 WORKDIR /var/www
 
