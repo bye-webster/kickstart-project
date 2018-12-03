@@ -1,0 +1,11 @@
+.env.src
+.env.example
+Dockerfile
+Jenkinsfile
+composer.json
+composer.lock
+.git
+var
+Makefile
+.DS_Store
+README.MD

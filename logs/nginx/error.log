@@ -1,0 +1,3 @@
+2018/07/27 05:09:29 [emerg] 1#1: ipv6only is not supported on addr "127.0.0.1:80", ignored in /etc/nginx/sites-available/site.conf:3
+2018/07/27 05:11:53 [emerg] 1#1: invalid IPv6 address in "[dev.oktrip.id]:80" of the "listen" directive in /etc/nginx/sites-available/site.conf:3
+2018/10/26 04:00:41 [emerg] 1#1: invalid number of arguments in "client_body_timeout" directive in /etc/nginx/sites-available/site.conf:8
